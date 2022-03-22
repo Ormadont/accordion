@@ -1,5 +1,5 @@
 # accordion
-Css only with subitems
+Css only, with subitems
 
 
 Thanks for being so helpful, joelbonetr
